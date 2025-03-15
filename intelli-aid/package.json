@@ -1,7 +1,7 @@
 {
-  "name": "my-nodejs-project",
+  "name": "intelli-aid",
   "version": "1.0.0",
-  "description": "A basic Node.js project structure.",
+  "description": "A virtual AI-based therapist application.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
