@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 app.use(express.json());
 
 // Routes
-const routes = require('./routes');
+const routes = require('../intelli-aid/src/routes');
 app.use('/api', routes());
 
 // Start the server
